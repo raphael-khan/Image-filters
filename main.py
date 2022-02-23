@@ -8,4 +8,5 @@ convert_img.show()
 filtered_img.save('pikachu_contour.jpg')
 
 # print(img.format, img.size, img.mode)
-# print(dir(img))/// 
+# print(dir(img)).
+#notes
